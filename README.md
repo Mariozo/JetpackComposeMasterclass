@@ -1,4 +1,5 @@
 Kopsavilkums
+
 Lodziņu(Box) izmantošana programmā Compose, lai centrētu saliekamos elementus un izveidotu gradientus. 2:43
 Kā attēlam pievienot ikonas pogu, pielāgojot tā pozīciju un nokrāsu labākai redzamībai.
 Svarīgi ir neizmantot fiksētu krāsu ikonu pogām, strādājot ar dinamiskiem attēliem.
