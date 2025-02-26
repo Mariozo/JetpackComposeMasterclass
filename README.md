@@ -1,5 +1,4 @@
-Kopsavilkums
-
+/Box
 Kopsavilkums
 1. Lodziņu(Box) izmantošana programmā Compose, lai centrētu saliekamos elementus un izveidotu gradientus.
 2. Kā attēlam pievienot ikonas pogu, pielāgojot tā pozīciju un nokrāsu labākai redzamībai.
